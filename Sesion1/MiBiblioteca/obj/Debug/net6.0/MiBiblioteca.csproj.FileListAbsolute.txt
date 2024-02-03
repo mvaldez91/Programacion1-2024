@@ -1,0 +1,12 @@
+C:\Users\Marco\Documents\UMG\Progra12024\Sesion1\MiBiblioteca\bin\Debug\net6.0\MiBiblioteca.deps.json
+C:\Users\Marco\Documents\UMG\Progra12024\Sesion1\MiBiblioteca\bin\Debug\net6.0\MiBiblioteca.dll
+C:\Users\Marco\Documents\UMG\Progra12024\Sesion1\MiBiblioteca\bin\Debug\net6.0\MiBiblioteca.pdb
+C:\Users\Marco\Documents\UMG\Progra12024\Sesion1\MiBiblioteca\obj\Debug\net6.0\MiBiblioteca.csproj.AssemblyReference.cache
+C:\Users\Marco\Documents\UMG\Progra12024\Sesion1\MiBiblioteca\obj\Debug\net6.0\MiBiblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marco\Documents\UMG\Progra12024\Sesion1\MiBiblioteca\obj\Debug\net6.0\MiBiblioteca.AssemblyInfoInputs.cache
+C:\Users\Marco\Documents\UMG\Progra12024\Sesion1\MiBiblioteca\obj\Debug\net6.0\MiBiblioteca.AssemblyInfo.cs
+C:\Users\Marco\Documents\UMG\Progra12024\Sesion1\MiBiblioteca\obj\Debug\net6.0\MiBiblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Marco\Documents\UMG\Progra12024\Sesion1\MiBiblioteca\obj\Debug\net6.0\MiBiblioteca.dll
+C:\Users\Marco\Documents\UMG\Progra12024\Sesion1\MiBiblioteca\obj\Debug\net6.0\refint\MiBiblioteca.dll
+C:\Users\Marco\Documents\UMG\Progra12024\Sesion1\MiBiblioteca\obj\Debug\net6.0\MiBiblioteca.pdb
+C:\Users\Marco\Documents\UMG\Progra12024\Sesion1\MiBiblioteca\obj\Debug\net6.0\ref\MiBiblioteca.dll
